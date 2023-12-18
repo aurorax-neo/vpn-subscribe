@@ -1,7 +1,7 @@
 # 定义访问令牌，仓库名称和文件夹路径
 import requests
 
-token = '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'
+token = '*****'
 repo = 'aurorax-neo/vpn-subscribe'
 folder_path = 'config'
 
