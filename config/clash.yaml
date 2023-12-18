@@ -1,7 +1,7 @@
 ####################################
 # 创建者：aurorax-neo
 # 客户端：Clash.Meta
-# 创建时间：2023-12-18 23:16:33
+# 创建时间：2023-12-18 23:29:56
 # 使用模版：ACL4SSR_Online.ini
 # 节点数量：2
 # 节点类型：hysteria2, vmess
@@ -87,7 +87,7 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - { "name": "hy2-aurorax-neo","type": "hysteria2","server": "www.aurorax.site","port": 6543,"password": "79a7fa75-b820-45ca-8e45-366eeea1e262","skip-cert-verify": true,"obfs": "salamander","obfs-password": "aurorax-neo" }
+  - { "name": "hy2-aurorax-neo","type": "hysteria2","server": "www.aurorax.site","port": 6543,"password": "aurorax:79a7fa75-b820-45ca-8e45-366eeea1e262","skip-cert-verify": true,"obfs": "salamander","obfs-password": "aurorax-neo" }
   - { "name": "vmess+ws|15047150695@163.com","type": "vmess","server": "x-ui.aurorax.site","port": 5555,"cipher": "auto","uuid": "bae253e3-74d7-4280-88d1-51f048eeff33","alterId": 0,"tls": true,"skip-cert-verify": true,"network": "ws","ws-opts": { "path": "/bae253e3" } }
 proxy-groups:
   - name: 🚀 节点选择
