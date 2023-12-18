@@ -7,6 +7,7 @@ name = "pip_conf_index_global"
 pyyaml = "*"
 pandas = "*"
 confutilppp = "*"
+requests = "*"
 
 [dev-packages]
 
