@@ -1,0 +1,12 @@
+- private-key: 'yJUY8jOKvcJbMMrgFBU7iGm4KImfv3A170CLjP0E11o='
+  public-key: 'bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo='
+  config-name: 'warp-aurorax'
+  ipv6: '2606:4700:110:81bc:1f21:8ae7:cf84:8562'
+  ip: 172.16.0.100
+  nodes_count: 16
+- private-key: 'eBStWLJL3/HqN408jRVXq7ZQh1Ge+rLPIpbVJmyqe2Q='
+  public-key: 'bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo='
+  config-name: 'warp-aurorax-zero-trust'
+  ipv6: '2606:4700:110:8886:ac5e:27e6:66a3:e5b7'
+  ip: 172.16.0.100
+  nodes_count: 16
